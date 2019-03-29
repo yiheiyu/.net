@@ -1,0 +1,12 @@
+D:\VSProjects\repos\NetTest\NetTest\bin\Release\NetTest.exe
+D:\VSProjects\repos\NetTest\NetTest\bin\Release\NetTest.pdb
+D:\VSProjects\repos\NetTest\NetTest\obj\Release\NetTest.About.resources
+D:\VSProjects\repos\NetTest\NetTest\obj\Release\NetTest.Form1.resources
+D:\VSProjects\repos\NetTest\NetTest\obj\Release\NetTest.Form2.resources
+D:\VSProjects\repos\NetTest\NetTest\obj\Release\NetTest.Properties.Resources.resources
+D:\VSProjects\repos\NetTest\NetTest\obj\Release\NetTest.csproj.GenerateResource.cache
+D:\VSProjects\repos\NetTest\NetTest\obj\Release\NetTest.csproj.CoreCompileInputs.cache
+D:\VSProjects\repos\NetTest\NetTest\obj\Release\NetTest.exe
+D:\VSProjects\repos\NetTest\NetTest\obj\Release\NetTest.pdb
+D:\VSProjects\repos\NetTest\NetTest\obj\Release\NetTest.Resource.resources
+D:\VSProjects\repos\NetTest\NetTest\obj\Release\NetTest.Form3.resources
